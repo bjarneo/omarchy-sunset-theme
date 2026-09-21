@@ -16,7 +16,8 @@ omarchy theme install https://github.com/bjarneo/omarchy-sunset-theme
 
 ## Backgrounds
 
-Ten wallpapers up to 6016x3384 and one candlelit library video at 2592x1440.
+Eleven wallpapers up to 6016x3384 and one seamless retro sunset loop at
+3840x2160.
 
 ## Credits
 
